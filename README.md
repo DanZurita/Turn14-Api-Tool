@@ -1,8 +1,12 @@
 This program is only for companies/people that are paid distributors for https://www.turn14.com/ you must have access to get credentials and to use the API
 
-What does it do: Combines 3 different tables of data(car parts) to easily get the Photo and Price and description of the product
+*This tool is only if you want to get car parts by searching the name of the car*
 
-Step 1: change the 'a.php' file to update and save your ClientID and Client Secret located on https://www.turn14.com/api_settings.php
+What does it do: Allows the user search and download car parts pertaining to a certain car and brand id in csv format
+
+How does it work: Combines 3 different tables of data(car parts) to easily get the Photo, Price and description of the product and download in csv format
+
+Step 1: change the 'a.php' file to update and save your ClientID and Client Secret(You must get this from turn14)
 
 Step 2: Type a car name (lower case) in the Car name textbox and brand id in the brand id textbox (To find the brand id construct an API request to retrieve brandid from turn14, one tool would be postman. https://www.postman.com/)
 
