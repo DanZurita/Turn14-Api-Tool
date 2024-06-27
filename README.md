@@ -1,4 +1,4 @@
-This program is only for companies/people that are paid distributors for https://www.turn14.com/ you must have access to use the API to get credentials
+This program is only for companies/people that are paid distributors for https://www.turn14.com/ you must have access to get credentials and to use the API
 
 What does it do: Combines 3 different tables of data(car parts) to easily get the Photo and Price and description of the product
 
